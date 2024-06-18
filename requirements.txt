@@ -2,8 +2,6 @@ barcode_generator==0.1rc15
 fastapi==0.111.0
 firebase_admin==6.5.0
 fpdf==1.7.2
-Pillow==10.1.0
-Pillow==10.3.0
 protobuf==5.27.1
 pydantic==2.7.4
 PyJWT==2.8.0
